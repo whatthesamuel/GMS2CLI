@@ -1,0 +1,48 @@
+{
+  "resources": [
+    {"id":{"name":"CLI_COMMANDS","path":"scripts/CLI_COMMANDS/CLI_COMMANDS.yy",},"order":0,},
+    {"id":{"name":"CLI_obj_draw","path":"objects/CLI_obj_draw/CLI_obj_draw.yy",},"order":2,},
+    {"id":{"name":"CLI_howToUse","path":"notes/CLI_howToUse/CLI_howToUse.yy",},"order":5,},
+    {"id":{"name":"CLI_Scripts","path":"scripts/CLI_Scripts/CLI_Scripts.yy",},"order":1,},
+    {"id":{"name":"CLI_room","path":"rooms/CLI_room/CLI_room.yy",},"order":3,},
+  ],
+  "Options": [
+    {"name":"Amazon Fire","path":"options/amazonfire/options_amazonfire.yy",},
+    {"name":"Android","path":"options/android/options_android.yy",},
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
+    {"name":"iOS","path":"options/ios/options_ios.yy",},
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+  ],
+  "defaultScriptType": 1,
+  "isEcma": false,
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"CLI_room","path":"rooms/CLI_room/CLI_room.yy",},},
+  ],
+  "Folders": [
+    {"folderPath":"folders/GM_CommandLine.yy","order":5,"resourceVersion":"1.0","name":"GM_CommandLine","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/GM_CommandLine/Scripts.yy","order":4,"resourceVersion":"1.0","name":"Scripts","tags":[],"resourceType":"GMFolder",},
+  ],
+  "AudioGroups": [
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"compressFormat":"bz2","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2022.3.0.625",
+  },
+  "resourceVersion": "1.5",
+  "name": "GMS2CLI",
+  "tags": [],
+  "resourceType": "GMProject",
+}

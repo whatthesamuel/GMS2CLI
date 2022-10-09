@@ -1,0 +1,12 @@
+ First things first, I added a 'CLI_' prefix to every asset included with this extension.
+I know that this isn't exactly a 'command line interface', but I think it won't be bothering anyone too much,
+and it will make things easy to tell which is which.
+
+ You probably don't have to mess with the 'CLI_Scripts' scripts. Instead, look into the 'CLI_COMMANDS' script.
+I've made some examples on how to add your custom commands that should be sufficient to understand
+how this all works. Also see 'CLI_obj_draw' object to see how it is all applied in actual use.
+
+ If you have any questions or feedback, leave it in the comment section(depending on where you got it), or send
+me an email at alex01763@gmail.com
+
+ Happy coding!
